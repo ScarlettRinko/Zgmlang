@@ -1,5 +1,5 @@
 # mmj, zgm（么么啾，在干嘛）
-
+重要：本 repo 已停止更新，请参阅 https://blog.suki.house/zgmlang/intro。
 
 # 简介
 &emsp;&emsp;zgmlang 是由 pst 与 ddi 创造和发展的一种人造语言。它继承自汉语，主要以拼音首字母的形式与汉字形成对应。zgmlang 可追溯的最早起源是在 2021 年，伴随两位创制者的日常交流逐步形成，并于 2023 年定名为 zgmlang。
